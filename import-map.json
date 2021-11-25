@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "canvas-confetti": "https://cdn.skypack.dev/canvas-confetti"
+    }
+}
